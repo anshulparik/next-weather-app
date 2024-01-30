@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 20px;
+}
+
+.link{
+    list-style: none;
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+    font-size: 22px;
+    cursor: pointer;
+}
+
